@@ -9,11 +9,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Utils">
-      <UniqueIdentifier>{f4292286-2a86-48e7-a56b-d97072487d68}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Game">
-      <UniqueIdentifier>{e63c8c3e-8ab8-4ecd-b225-6aa916dcbe60}</UniqueIdentifier>
+      <UniqueIdentifier>{525f9c09-a64c-4da9-ab45-00bdd2e21d9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utils">
+      <UniqueIdentifier>{013d4fcd-1726-465e-9045-17f134085241}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
